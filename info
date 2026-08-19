@@ -1,0 +1,7 @@
+crud-contatos/
+├── config.php          → Conexão com o banco de dados
+├── database.sql        → Script para criar a tabela
+├── index.php           → Lista os contatos (READ)
+├── criar.php           → Formulário para adicionar (CREATE)
+├── editar.php          → Formulário para editar (UPDATE)
+└── excluir.php         → Exclui um contato (DELETE)
