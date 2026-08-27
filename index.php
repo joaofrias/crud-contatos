@@ -22,6 +22,7 @@ $contatos = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body>
     <h1>Lista de Contatos</h1>
+    <h2>Teste no github</h2>
     <a class="btn-add" href="criar.php">+ Adicionar Contato</a>
     <br><br>
 
